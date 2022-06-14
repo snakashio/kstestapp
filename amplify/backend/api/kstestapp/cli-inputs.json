@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "kstestapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/nakashioshingo/work/ksapp_test/kstestapp/amplify/backend/api/kstestapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
